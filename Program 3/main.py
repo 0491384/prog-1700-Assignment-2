@@ -1,6 +1,6 @@
 #Student Name:   James Seely
-#Program Title:  
-#Description:    
+#Program Title:  Auto insurance calculator.
+#Description:    calculate the price of insurance based on risk and vehicle cost.
 
 
 def main():
